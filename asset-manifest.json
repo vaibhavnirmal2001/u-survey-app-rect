@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/u-survey-app-rect/static/css/main.31127427.chunk.css",
+    "main.js": "/u-survey-app-rect/static/js/main.0981869c.chunk.js",
+    "main.js.map": "/u-survey-app-rect/static/js/main.0981869c.chunk.js.map",
+    "runtime-main.js": "/u-survey-app-rect/static/js/runtime-main.4603e7ec.js",
+    "runtime-main.js.map": "/u-survey-app-rect/static/js/runtime-main.4603e7ec.js.map",
+    "static/js/2.40742a68.chunk.js": "/u-survey-app-rect/static/js/2.40742a68.chunk.js",
+    "static/js/2.40742a68.chunk.js.map": "/u-survey-app-rect/static/js/2.40742a68.chunk.js.map",
+    "static/js/3.a325cbf5.chunk.js": "/u-survey-app-rect/static/js/3.a325cbf5.chunk.js",
+    "static/js/3.a325cbf5.chunk.js.map": "/u-survey-app-rect/static/js/3.a325cbf5.chunk.js.map",
+    "index.html": "/u-survey-app-rect/index.html",
+    "static/css/main.31127427.chunk.css.map": "/u-survey-app-rect/static/css/main.31127427.chunk.css.map",
+    "static/js/2.40742a68.chunk.js.LICENSE.txt": "/u-survey-app-rect/static/js/2.40742a68.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/u-survey-app-rect/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4603e7ec.js",
+    "static/js/2.40742a68.chunk.js",
+    "static/css/main.31127427.chunk.css",
+    "static/js/main.0981869c.chunk.js"
+  ]
+}
